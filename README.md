@@ -1,7 +1,4 @@
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular+400&weight=900&size=30&duration=3000&pause=1000&color=F7F60E&center=true&vCenter=true&random=false&width=435&lines=+++++++++++++++++++++++++++++Vanitas+Vanitatum;+++++++++++++++++++++++++++++Et+Omnia+Vanitas)](https://git.io/typing-svg)
-
  <img src="https://github.com/XokoukioX/XokoukioX/raw/main/BG.png" /><br>
 
 <p align="center">
